@@ -1,0 +1,10 @@
+.buttons{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: crimson;
+  margin-bottom: 10px;
+}
+.data{
+  padding: 10px;
+}
